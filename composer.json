@@ -16,7 +16,7 @@
     },
     "autoload":{
         "psr-4":{
-            "LaravelModel\\Test": "src/Test/LaravelModel"
+            "LaravelModel\\Test\\": "src/Test/LaravelModel"
         }
     }
 }
