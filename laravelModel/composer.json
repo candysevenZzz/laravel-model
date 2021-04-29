@@ -1,0 +1,22 @@
+{
+    "name": "candy/laravel-model",
+    "description": "This Is A Model Service Base On Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Candy Seven",
+            "email": "candy_seven@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": "5.5.*"
+    },
+    "autoload":{
+        "psr-4":{
+            "LaravelModel\\Test": "src/Test/LaravelModel"
+        }
+    }
+}
