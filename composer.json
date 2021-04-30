@@ -16,7 +16,12 @@
     },
     "autoload":{
         "psr-4":{
-            "LaravelModel\\Test\\": "src/Test/LaravelModel"
+            "LaravelModel\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LaravelModel\\Test\\": "src/Test"
         }
     }
 }
