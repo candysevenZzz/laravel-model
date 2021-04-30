@@ -2,6 +2,7 @@
 
 namespace LaravelModel\Test;
 
+use Exception;
 use LaravelModel\Entity\BaseEntity;
 use LaravelModel\ModelService\BaseModelService;
 
